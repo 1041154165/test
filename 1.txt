@@ -1,2 +1,6 @@
 12412413r23wevewvwsdvsdvs
+<<<<<<< HEAD
 rbdeberbherher
+=======
+sbvsbsabrfbdrher
+>>>>>>> featurel
